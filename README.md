@@ -1,5 +1,7 @@
-
 # Botnet contra sitios web de medios independientes en México
+
+
+Por Jacobo Nájera
 
 Existen grupos que utilizan fallos de la tecnología para hacer negocio, al explotar sus vulnerabilidades con fines específicos; tal fue el caso del ataque informático WannaCry, que secuestra computadoras y dispositivos para posteriormente demandar dinero.
 
