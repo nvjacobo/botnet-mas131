@@ -23,6 +23,8 @@ Algunos de los requerimientos para materializar un ataque como el tratado aquí 
 
 La botnet que realizó el ataque contra el Másde131 contaba con al menos 25 mil direcciones IP, de las cuales tomamos una muestra de 1200 para posicionarla en un mapa a modo que la dirección geográfica correspondiera con el registro asociado. Esto quiere decir que cada punto en el mapa está asociado a un registro de dichas direcciones, aunque esto no necesariamente implique que la conexión provenga de los puntos señalados.
 
+![mapa](botnet.png)
+
 Un análisis coincidente por técnica e infraestructura, que incluso comparte varias de las direcciones IP con este caso, fue publicado por la empresa WordFence a comienzos de este año. El reporte de WordFence apunta a que una vez que la botnet logra el control de algún sitio web, busca colocar banners de anuncios de Google en los archivos de encabezado del sitio comprometido como una forma de monetizar el ataque.
 
 Explotar la vulnerabilidad de una contraseña débil en el sitio made131.com, permitió que se obtuviera el control temporal sobre su base de datos. Sin embargo lo que realmente permitió realizar el ataque es un problema exponencial en el que estamos involucradas todas las personas que usamos tecnología, así como los fabricantes y proveedores de servicios; ya que nuestra relación con la tecnología genera un espacio en el que pueden existir grupos que exploran modelos de negocio desde la explotación de vulnerabilidades tecnológicas para generar ganancias.
